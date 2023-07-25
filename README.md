@@ -33,3 +33,8 @@ The URL of the GitHub repository: https://github.com/NatalieCampbellGit/Ponderin
 Check out this video I recorded with Screencastify: https://drive.google.com/file/
 
 ## Preview 
+![image1](./assets/18-nosql-homework-demo-01.gif)
+![image2](./assets/18-nosql-homework-demo-02.gif)
+![image3](./assets/18-nosql-homework-demo-03.gif)
+![image4](./assets/18-nosql-homework-demo-04.gif)
+
